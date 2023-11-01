@@ -13,6 +13,48 @@ Integrated with **third-party libraries** like:
 
 This project was made on 2020-2021.
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:amaimasque/e-palengke.git
+```
+
+Go to the project directory
+
+```bash
+  cd e-palengke
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+### Android
+
+Go to `android` folder and add `local.properties` file.
+Specify the SDK location.
+
+```bash
+  sdk.dir = <SDK location>
+```
+
+Start the server
+
+```bash
+  yarn start
+```
+
+Run app on device
+
+```bash
+  yarn android
+```
+
 ## TODO
 - [ ]   Update to latest version
 - [ ]   Remove deprecated packages
