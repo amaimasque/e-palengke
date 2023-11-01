@@ -14,5 +14,5 @@ Integrated with **third-party libraries** like:
 This project was made on 2020-2021.
 
 ## TODO
--[ ] Update to latest version
--[ ] Remove deprecated packages
+- [ ]   Update to latest version
+- [ ]   Remove deprecated packages
