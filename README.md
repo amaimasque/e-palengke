@@ -34,6 +34,17 @@ Install dependencies
   yarn install
 ```
 
+### Firebase
+
+On `App.js` file, specify Firebase credentials
+```bash
+    firebase.initializeApp({
+        projectId: '',
+        apiKey: '',
+        storageBucket: '',
+      });
+```
+
 ### Android
 
 Go to `android` folder and add `local.properties` file.
