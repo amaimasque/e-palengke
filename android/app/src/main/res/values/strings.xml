@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">epalengke</string>
+    <string name="facebook_app_id">3399737406775002</string>
+    <string name="fb_login_protocol_scheme">fb3399737406775002</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803819056425",
+    "firebase_url": "https://epalengke-1592289821596.firebaseio.com",
+    "project_id": "epalengke-1592289821596",
+    "storage_bucket": "epalengke-1592289821596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803819056425:android:ac55da7d57f36c0e039b38",
+        "android_client_info": {
+          "package_name": "com.epalengke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803819056425-0ee9opu75r9rm2ch6lloli3vi4tcai65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epalengke",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "803819056425-06bsk55ucjonbidssm1q0kmbg2ds9u1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqcUsk9Bn7Twgy0kUjBaib3CmZynQd3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803819056425-06bsk55ucjonbidssm1q0kmbg2ds9u1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
